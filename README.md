@@ -1,2 +1,2 @@
 # Filmoneri
-Hazır Tmdb api veri setinden film decription verisinden yeni film yapay zeka tavsiyesi
+Hazır Tmdb api veri setinden film description verisinden yeni film yapay zeka tavsiyesi
